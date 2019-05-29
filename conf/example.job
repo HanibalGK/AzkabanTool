@@ -1,0 +1,4 @@
+type=command
+command=path
+retries=3
+retry.backoff=300000

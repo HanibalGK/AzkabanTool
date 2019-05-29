@@ -1,0 +1,4 @@
+type=command
+command=sh /data/qding_etl/bash/qding_ads/xingmai/week/load_ads_data_to_mysql/load_ads_data_to_mysql.sh
+retries=3
+retry.backoff=300000
